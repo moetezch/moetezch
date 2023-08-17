@@ -1,5 +1,5 @@
 <h1 align="center">Hi  👋, I'm Moataz</h1>
-<h3 align="center">Full stack web develper</h3>
+<h3 align="center">Full stack web developer</h3>
 
 <img src="https://media.giphy.com/media/dzHzdMctT3jNu/giphy.gif" width="250">
 
